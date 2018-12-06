@@ -1,2 +1,0 @@
-# Hytitude
-discord bot
